@@ -18,7 +18,7 @@ export default function Addproduct() {
                 <input placeholder='Enter the category' />
             </div>
             <div>
-                <button style={{color:'black',,marginTop:'6px'}}>Add image</button>
+                <button style={{color:'black',marginTop:'6px'}}>Add image</button>
             </div>
             <div><button style={{color:'black',marginTop:'6px'}}>Add product</button></div>
         </form>
